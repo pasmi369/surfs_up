@@ -12,17 +12,16 @@
 - ### June Temperature
 ![June Temperatures](./Resources/june_temps.png)
 
-- Data count for June Tempratures are 1700 entries.
+Data count for June Tempratures are 1700 entries.
   1. The average temperature is 74.94 degrees fahrenheit
   2. The minimum temperature is 64 degrees fahrenheit
   3. The maximum temperature is 85 degrees fahrenheit
 
 
-
 - ### December Temperature
 ![December Tempratures](./Resources/dec_temps.png)
 
-- Data count for December temperatures are 1517 entries.
+Data count for December temperatures are 1517 entries.
   1. The average temperature is 71.04 degrees fahrenheit
   2. The minimum temperature is 56 degrees fahrenheit
   3. The maximum temperature is 83 degrees fahrenheit
