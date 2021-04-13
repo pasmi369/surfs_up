@@ -28,8 +28,22 @@ Data count for December temperatures are 1517 entries.
 
 
 ## Summary:
+
 ![June Precipitation](./Resources/june_prcp.png)   - ![December Precipitation](./Resources/dec_prcp.png)
 
+As per the above table, the observations are that opening a surf shop would be a smart investment. This is because there is an enjoyable average temperature in two months that are 6 months apart from one another. That shows that for most months of the year, there will be enjoyable temperature for people to come and use the surf shop.
+To dive a little deeper, we looked at the percipitation levels through the two months as well. The major takeaways from this analysis are:
+
+- The minimum,mean and maximum temperatures in June is more than that of December, which is suitable for the surfing and ice-cream shop. The standard deviation in temperature for June is less than that of December.
+- Also, the mean maximum precipitation in June is less than that of December, which is suitable for the surfing and ice-cream shop. The standard deviation in precipitation for June is less than that of December.
+- The counts of precipitation and temperature for the month of June is also less than that of December. Because of the more standard deviation in the month of December, the weather across all the stations varies more as compared to the month of June.
+- As per the above observations, the surfing and ice-cream shop will make more profit in the month of June as compared to the month of December.
+
+Recommendations
+- For further analysis, we should increase our range of summer and winter months for a better and indepth analysis.
+- Also, looking at this further analysis it shows that there is little amount of percipitation on a normal day, but there is still days with excessive rainfall. This shows that the surf shop will be able to stay open on most days while a few rainy days will help keep the island ecosystem lush and inviting to people wanting to visit the surf shop.
+- We can also do a seperate analysis for the best stations using some kind of filter like based on the total number of observations.
+- We can also drop the stations which are outliers in terms of data for our analysis.
 
 
 
@@ -43,29 +57,4 @@ Data count for December temperatures are 1517 entries.
 
 
 
-For this part of the Challenge, write a report that describes the key differences in weather between June and December and two recommendations for further analysis.
 
-The analysis should contain the following:
-
-Overview of the analysis: Explain the purpose of this analysis.
-Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
-Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
-Deliverable 3 Requirements
-Structure, Organization, and Formatting (6 points)
-The written analysis has the following structure, organization, and formatting:
-
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
-Analysis (14 points)
-The written analysis has the following:
-
-Overview of the statistical analysis:
-
-The purpose of the analysis is well defined. (3 pt)
-Results:
-
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-Summary:
-
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
