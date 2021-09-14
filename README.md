@@ -3,7 +3,7 @@
   - Weather analysis for surfing and Ice-cream shop business.
 
   ### Purpose of the analysis:
-  - The purpose of this project is to analyze Weather Data using SQLite and Flask to see if it is worth openning a surf shop on Oahu island.
+  - The purpose of this project is to analyze Weather Data using SQLite and Flask to see if it is worth opening a surf shop on Oahu island.
   - Project involves gathering and analysing data based on the seasons, temperatures, percipitations.
   - Based on the anlaysis which season could effect surf and ice-cream shop business.
 
